@@ -22,7 +22,7 @@
 
 	cp jetty-nosql-memcached-0.6.0-SNAPSHOT-jar-with-dependencies.jar ~/some/path/jetty-nosql-memcached-0.6.0-SNAPSHOT-jar-with-dependencies-prod.jar
 
-## branch `bizid-jvm-dev`
+## branch `bizid-jvm-dev` (no change with original)
 1. change branch
 
 	git co bizid-jvm-dev
